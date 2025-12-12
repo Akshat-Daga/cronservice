@@ -1,4 +1,4 @@
-module cronservice
+module github.com/Akshat-Daga/cronservice
 
 go 1.25.5
 
